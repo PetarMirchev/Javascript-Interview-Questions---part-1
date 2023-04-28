@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(103, 109, 139);
+}
+
+* {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid blue;
+}
+
+.wind {
+    margin-top: 150px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 10px;
+}
+
+span {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
