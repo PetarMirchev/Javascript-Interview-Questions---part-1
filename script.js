@@ -60,7 +60,7 @@
 // function funcAlert() {
 //     alert("currentTarget = " + event.currentTarget.tagName + //currentTarget = FORM
 //     ", target = " + event.target.tagName +//currentTarget = FORM, target = BUTTON
-//     ", this = " + this.tagName);  //currentTarget = FORM, target = BUTTON, this = FORM
+//     ", this = " + this.tagName);  //currentTarget = FORM, target = BUTTON, this = DIV
 // };
 
 
